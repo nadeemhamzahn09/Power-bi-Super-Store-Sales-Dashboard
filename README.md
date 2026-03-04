@@ -1,7 +1,7 @@
 # Power-bi-Super-Store-Sales-Dashboard
 I build an interactive superstore data analysis dashboard in power bi.
 # Sales Dashboard - Power bi
-📌 Overview
+📌 Overview:
 Interactive sales dashboard built using Power BI.
 # 🔹 Skills Demonstrated
 - Data Cleaning
